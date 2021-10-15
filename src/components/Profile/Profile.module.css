@@ -1,6 +1,6 @@
 .profile {
-  width: 400px;
-  font-weight: 500;
+  width: 350px;
+  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   text-align: center;
@@ -9,18 +9,19 @@
   background-color: #fff;
   padding: 20px 0px;
   border: 1px solid var(--border-color);
-  box-shadow: 10px 10px 8px 2px var(--shadow-color);
+  box-shadow: 2px 2px 3px 2px var(--shadow-color);
+  border-radius: 10px;
 }
 /* avatar */
 .avatar {
-  width: 200px;
-  border-radius: 50%;
+  width: 100px;
+  border-radius: 20%;
   border: 4px solid var(--border-color);
   margin-left: auto;
   margin-right: auto;
 }
 .name {
-  font-weight: 900;
+  font-weight: 00;
   font-size: 30px;
   color: var(--border-color);
   margin-bottom: 10px;

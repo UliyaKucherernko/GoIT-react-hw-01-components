@@ -6,9 +6,9 @@ const TransactionHistory = ({ items }) => {
     <table className={s.transactionHistory}>
       <thead className={s.transactionTitel}>
         <tr>
-          <th>Type</th>
-          <th>Amount</th>
-          <th>Currency</th>
+          <th>TYPE</th>
+          <th>AMOUNT</th>
+          <th>CURRENCY</th>
         </tr>
       </thead>
 

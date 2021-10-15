@@ -1,11 +1,12 @@
 .statistics {
-  width: 600px;
-  color: var(--titel-color);
+  width: 400px;
+  color: var(--tittle-color);
   font-size: 16px;
   line-height: 1.5;
   text-align: center;
   padding-top: 30px;
   border: 1px solid var(--border-color);
+  border-radius: 5px;
 }
 .title {
   font-weight: 700;
@@ -15,14 +16,14 @@
 .statList {
   display: flex;
   color: var(--dr-text-color);
-  border-top: 1px solid var(--border-color);
+  border-radius: 10px;
 }
 .item {
   width: 120px;
   display: flex;
   flex-direction: column;
   padding: 10px 0px;
-  border: 1px solid var(--border-color);
+  border-radius: 3px;
 }
 .label {
   margin-bottom: 5px;

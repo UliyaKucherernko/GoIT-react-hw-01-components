@@ -2,17 +2,18 @@
   width: 900px;
   margin-left: auto;
   margin-right: auto;
-  border: 1px solid var(--border-color);
+  border: 1px solid #9c9c9c;
   text-align: center;
 }
+
 .transactionHistory th,
 .transactionHistory td {
   padding: 10px;
-  border: 1px solid #2a2a2a;
+  border: 1px solid #d4dff5;
 }
 .transactionTitel {
-  background-color: lightskyblue;
+  background-color: rgb(195, 220, 236);
 }
 .transactionHistory tr:nth-child(2n) {
-  background-color: rgb(221, 204, 255);
+  background-color: rgb(182, 253, 253);
 }

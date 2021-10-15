@@ -21,7 +21,7 @@ function App() {
         />
 
         <div>
-          <Statistics title="Upload stats" stats={statisticalData} />
+          <Statistics title="UPLOAD STATS" stats={statisticalData} />
           <FriendList friends={friends} />
         </div>
       </div>
